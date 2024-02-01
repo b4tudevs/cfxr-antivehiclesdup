@@ -32,5 +32,5 @@ else
     end)
 end
 
--- kapalı olarak ayarlanırsa yalnızca araç oluşturulduğunda kontrol edilir, Doğru olarak ayarlanırsa tüm araçlar her 5 saniyede bir kontrol edilir
--- if set to false it will only be checked when the vehicle is created, If set to true all vehicles are checked every 5 seconds
+-- kapalı olarak ayarlanırsa yalnızca araç oluşturulduğunda kontrol edilir, Doğru olarak ayarlanırsa tüm araçlar her 4 saniyede bir kontrol edilir
+-- if set to false it will only be checked when the vehicle is created, If set to true all vehicles are checked every 4 seconds
